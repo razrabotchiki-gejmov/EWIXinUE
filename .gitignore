@@ -32,3 +32,4 @@ Build/Windows/Manifest_DebugFiles_Win64.txt
 Build/Windows/Manifest_NonUFSFiles_Win64.txt
 Build/Windows/Manifest_UFSFiles_Win64.txt
 Build/Управление.txt
+*.7z
